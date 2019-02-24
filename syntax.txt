@@ -6,7 +6,7 @@
 
 
 power_mod(2, 4, 10)
-#a^b mod n = 6
+#2^4 mod 10 = 6
 
 #seznam cisel
 seznam = [1,2,3,4]
