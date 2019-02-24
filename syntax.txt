@@ -1,0 +1,16 @@
+10^2
+#mocnina = 100
+
+10%4
+#zvysek po deleni = 2
+
+
+power_mod(2, 4, 10)
+#a^b mod n = 6
+
+#seznam cisel
+seznam = [1,2,3,4]
+
+gcd(10,25)
+#nejvetsi spolecny delitel = 5
+
