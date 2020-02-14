@@ -2,7 +2,7 @@
 #mocnina = 100
 
 10%4
-#zvysek po deleni = 2
+#zbytek po deleni = 2
 
 
 power_mod(2, 4, 10)
